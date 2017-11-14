@@ -23,6 +23,9 @@ Design decisions will also be included in the final version.
 ## Overview 
 tbd
 
+## Circuit Description 
+tbd
+
 ## Part List
 tbd
 
