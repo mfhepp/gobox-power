@@ -1,0 +1,8 @@
+(module not_on_board (layer F.Cu) (tedit 59774772)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value not_on_board (at 0 -1.27) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
