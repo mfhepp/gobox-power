@@ -50,7 +50,7 @@ tbd
 
 ## Ripple and Noice ##
 
-Below, please find measurements of the remaining ripple and noise. The output voltage shows practically no ripple (less than 20mV Peak-to-Peak), the input voltage very little (less than 66 mV Peak-to-Peak).
+Below, please find measurements of the remaining ripple and noise. The output voltage shows practically no ripple (less than 12mV Peak-to-Peak), the input voltage very little (ca. 66 mV Peak-to-Peak).
 
 The parameters of the measurement were as follows:
 Input voltage: 9V from a 9V block battery.
