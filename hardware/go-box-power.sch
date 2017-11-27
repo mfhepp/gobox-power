@@ -87,20 +87,21 @@ P 6150 1575
 F 0 "C7" H 6175 1675 50  0000 L CNN
 F 1 "15p" H 6175 1475 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6188 1425 50  0001 C CNN
-F 3 "http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf" H 6150 1575 50  0001 C CNN
+F 3 "http://www.mouser.com/ds/2/281/c03e-806517.pdf" H 6150 1575 50  0001 C CNN
 F 4 "Murata" H 6150 1575 60  0001 C CNN "MFN"
-F 5 "GRM0335C1E150FA01D" H 6150 1575 60  0001 C CNN "MPN"
-F 6 "81-GRM0335C1E150FA1D" H 6150 1575 60  0001 C CNN "Mouser Part Number"
-F 7 "http://www.mouser.de/ProductDetail/Murata-Electronics/GRM0335C1E150FA01D/" H 6150 1575 60  0001 C CNN "Mouser Part Link"
+F 5 "GCM1885C1H150JA16D" H 6150 1575 60  0001 C CNN "MPN"
+F 6 "81-GCM1885C1H150J16D" H 6150 1575 60  0001 C CNN "Mouser Part Number"
+F 7 "https://www.mouser.de/ProductDetail/Murata-Electronics/GCM1885C1H150JA16D/" H 6150 1575 60  0001 C CNN "Mouser Part Link"
 F 8 "n/a" H 6150 1575 60  0001 C CNN "Alternative Source Name"
 F 9 "n/a" H 6150 1575 60  0001 C CNN "Alternative Source Part Number"
 F 10 "C0G (NP0)" H 6150 1575 60  0001 C CNN "Characteristics"
-F 11 "n/a" H 6150 1575 60  0001 C CNN "Description"
+F 11 "15pF/50V" H 6150 1575 60  0001 C CNN "Description"
 F 12 "n/a" H 6150 1575 60  0001 C CNN "Package ID"
 F 13 "ANY" H 6150 1575 60  0001 C CNN "Source"
 F 14 "N" H 6150 1575 60  0001 C CNN "Critical"
 F 15 "n/a" H 6150 1575 60  0001 C CNN "Notes"
-F 16 "Value" H 6150 1575 60  0001 C CNN "Fieldname"
+F 16 "n/a" H 6150 1575 60  0001 C CNN "Design Decision URI"
+F 17 "Value" H 6150 1575 60  0001 C CNN "Fieldname"
 	1    6150 1575
 	1    0    0    -1  
 $EndComp
