@@ -60,8 +60,10 @@ Output current: 119 mA
 
 Measurements taken with a DMM and a Rigol Oscilloskope with a 1.10 probe.
 
+**Input Voltage Ripple and Noise:**
 ![Input Voltage Ripple](https://raw.githubusercontent.com/mfhepp/gobox-power/master/hardware/images/input-ripple.png)
 
+**Output Voltage Ripple and Noise:**
 ![Output Voltage Ripple](https://raw.githubusercontent.com/mfhepp/gobox-power/master/hardware/images/output-ripple.png)
 
 ## Part List
