@@ -52,11 +52,11 @@ tbd
 
 Below, please find measurements of the remaining ripple and noise. The output voltage shows practically no ripple (less than 12mV Peak-to-Peak), the input voltage very little (ca. 66 mV Peak-to-Peak).
 
-The parameters of the measurement were as follows:
-Input voltage: 9V from a 9V block battery.
-Load: 100 R resistor
-Output voltage: 11.9V
-Output current: 119 mA 
+The parameters of the measurement were as follows:<br />
+Input voltage: 9V from a 9V block battery.<br />
+Load: 100 R resistor<br />
+Output voltage: 11.9V<br />
+Output current: 119 mA <br />
 
 Measurements taken with a DMM and a Rigol Oscilloskope with a 1.10 probe.
 
