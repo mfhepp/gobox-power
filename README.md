@@ -67,14 +67,16 @@ Measurements taken with a DMM and a Rigol Oscilloskope with a 1.10 probe.
 ![Output Voltage Ripple](https://raw.githubusercontent.com/mfhepp/gobox-power/master/hardware/images/output-ripple.png)
 
 ## Part List
-tbd
+An Excel file that can be uploaded to Mouser's BOM tool is included in the repository at
+
+https://github.com/mfhepp/gobox-power/raw/master/hardware/go-box-power.xlsx
 
 ## Assembly
 **Note:** This is a densely packed PCB design using SMD components in size 0603, and for minimizing EMI, the pads do not have thermal relief, i.e. are directly connected to the copper of the ground signal and other signals. This makes soldering a bit challenging, and reworking even more so. In other words, this should not be your first exercise in SMD soldering....
 
 The components are placed with minimal distances, so when hand-soldering, you need to think carefull about the ordering of components. Some pads will become hard to reach for hand-soldering once the adjacent component will have been added.
 
-Because of the lack of thermal relief, you need to use a higher soldering temperature (I found 400 °C to work well), but this in turn means to work swiftly.
+Because of the lack of thermal relief and the pads, you need to use a higher soldering temperature (I found 400 °C to work well), but this in turn means you have to work swiftly. I recommend a flat 1.2mm tip and a round 0.4 mm tip for the work. Preheating the PCB might be a good idea. You also need the finest rosin-core solder you can get hold of.
 
 ## Sources
 The files in the repository contain 
