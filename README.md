@@ -83,7 +83,7 @@ The files in the repository contain
 * Gerber and drill files for producing your own PCBs, and
 * a KiCad project with the schematics, PCB, and parts and footprints libraries.
 
-KiCad is a great and free electronics design package. For more information, see [http://kicad-pcb.org/](http://kicad-pcb.org/).
+KiCad is a great and free electronics design package. For more information, see [http://kicad.org/](http://kicad.org/).
 
 ## Acknowledgments
 tbd
